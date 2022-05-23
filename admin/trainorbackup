@@ -1,0 +1,35 @@
+ <div class="card card-dark">
+              <div class="card-header">
+                <h3 class="card-title">* Trainor Information<small></small></h3>
+              </div>
+              <!-- /.card-header -->
+              <!-- form start -->
+              
+              <div class="card-body">
+                  <div class="form-group row g-3">
+                 
+  <div class="col-md-3">
+    <label for="inputEmail4" class="form-label">Course</label>
+    <input type="text" name="course" class="form-control" id="inputEmail4" placeholder="Enter Course">
+  </div>
+  <div class="col-md-3">
+    <label for="inputEmail4" class="form-label">Year and Section</label>
+    <input type="text" name="year_section" class="form-control" id="inputEmail4" placeholder="Enter year and section">
+  </div>
+  <div class="col-md-3">
+    <label for="inputEmail4" class="form-label">Student number</label>
+    <input type="text" name="student_no" class="form-control" id="inputEmail4" placeholder="Enter Student number">
+  </div>
+  <div class="col-md-3">
+    <label for="photo">Student ID
+<small></small>
+    </label>
+    <input type="file" name="student_id" class="form-control" id="photo">
+  
+  </div>
+ 
+  </div>
+ 
+</div>
+
+</div>
